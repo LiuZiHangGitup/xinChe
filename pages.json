@@ -1,0 +1,374 @@
+{
+	"pages": [{
+		"path": "pages/index/index/index",
+		"style": {
+			"navigationBarTitleText": "",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+							"text": "\ue616",
+							"float": "right",
+							"fontSrc": "/static/topBarIcon/iconfont.ttf",
+							"fontSize": "22px"
+						},
+						{
+							"text": "信车",
+							"fontSize": "15",
+							"float": "left",
+							"color": "#fff"
+						}
+					]
+				}
+			}
+		}
+	}, {
+		"path": "pages/carAdmin/addCar/addCar",
+		"style": {
+			"navigationBarTitleText": "新增车辆",
+			"app-plus": {
+				"bounce": "none",
+				"titleNView": {
+					"buttons": [{
+						"text": "提交",
+						"fontSize": "13",
+						"float": "right",
+						"color": "#fff"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/carAdmin/addCarImg/addCarImg",
+		"style": {
+			"navigationBarTitleText": "上传照片",
+			"app-plus": {
+				"bounce": "none",
+				"titleNView": {
+					"buttons": [{
+						"text": "提交",
+						"fontSize": "13",
+						"float": "right",
+						"color": "#fff"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/carAdmin/carList/carList",
+		"style": {
+			"navigationBarTitleText": "车辆管理"
+		}
+	}, {
+		"path": "pages/carAdmin/carInfo/carBasicInfo/carBasicInfo",
+		"style": {
+			"navigationBarTitleText": "车辆详情",
+			"app-plus": {
+				"titleNView": {
+					"type": "transparent",
+					"buttons": [{
+							"text": "\ue66e",
+							"float": "right",
+							"fontSrc": "/static/topBarIcon/iconfont.ttf",
+							"fontSize": "22px"
+						},
+						{
+							"text": "\ue608",
+							"float": "right",
+							"fontSrc": "/static/topBarIcon/iconfont.ttf",
+							"fontSize": "22px"
+						}
+					]
+				}
+			}
+		}
+	}, {
+		"path": "pages/carAdmin/carInfo/carMoreInfo/carMoreInfo",
+		"style": {
+			"navigationBarTitleText": "车辆详情"
+		}
+	}, {
+		"path": "pages/carAdmin/carInfo/carDeepInfo/carDeepInfo",
+		"style": {
+			"navigationBarTitleText": "车辆详情"
+		}
+	}, {
+		"path": "pages/goodCar/carList/carList",
+		"style": {
+			"navigationBarTitleText": "特价好车"
+		}
+	}, {
+		"path": "pages/goodCar/carInfo/carInfo",
+		"style": {
+			"navigationBarTitleText": "好车详情",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"type": "share"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/me/meInfo/meInfo",
+		"style": {
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/me/myMsg/myMsg",
+		"style": {
+			"navigationBarTitleText": "我的消息",
+			"enablePullDownRefresh": true
+		}
+	}, {
+		"path": "pages/statistics/statistics",
+		"style": {
+			"navigationBarTitleText": "数据统计"
+		}
+	}, {
+		"path": "pages/wisdomSell/wisdomSell",
+		"style": {
+			"navigationBarTitleText": "智慧营销",
+			"enablePullDownRefresh": true
+		}
+	}, {
+		"path": "pages/thirdSquare/tinyShop/carList/carList",
+		"style": {
+			"navigationBarTitleText": "微店",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"type": "share"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/thirdSquare/tinyShop/carInfo/carBasicInfo/carBasicInfo",
+		"style": {
+			"navigationBarTitleText": "车辆详情",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"type": "share"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/thirdSquare/tinyShop/carInfo/carMoreInfo/carMoreInfo",
+		"style": {
+			"navigationBarTitleText": "车辆详情"
+		}
+	}, {
+		"path": "pages/thirdSquare/tinyShop/carInfo/carDeepInfo/carDeepInfo",
+		"style": {
+			"navigationBarTitleText": "车辆详情"
+		}
+	}, {
+		"path": "pages/thirdSquare/allNetwork/carList/carList",
+		"style": {
+			"navigationBarTitleText": "全网车源"
+		}
+	}, {
+		"path": "pages/thirdSquare/allNetwork/carInfo/carBasicInFo/carBasicInFo",
+		"style": {
+			"navigationBarTitleText": "车辆详情"
+		}
+	}, {
+		"path": "pages/thirdSquare/allNetwork/carInfo/carMoreInfo/carMoreInfo",
+		"style": {
+			"navigationBarTitleText": "车辆详情"
+		}
+	}, {
+		"path": "pages/thirdSquare/allNetwork/carInfo/carDeepInfo/carDeepInfo",
+		"style": {
+			"navigationBarTitleText": "车辆详情"
+		}
+	}, {
+		"path": "pages/customerAdmin/customerList/customerList",
+		"style": {
+			"navigationBarTitleText": "客户列表",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"text": "新增",
+						"float": "right",
+						"fontSize": "15"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/customerAdmin/customerInfo/customerInfo",
+		"style": {
+			"navigationBarTitleText": "客户详情",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"text": "\ue66e",
+						"float": "right",
+						"fontSrc": "/static/topBarIcon/iconfont.ttf",
+						"fontSize": "20px"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/customerAdmin/customerSellAdd/customerSellAdd",
+		"style": {
+			"navigationBarTitleText": "添加卖车客户",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"text": "提交",
+						"float": "right",
+						"fontSize": "15"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/customerAdmin/customerBuyAdd/customerBuyAdd",
+		"style": {
+			"navigationBarTitleText": "添加买车客户",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"text": "提交",
+						"float": "right",
+						"fontSize": "15"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/customerAdmin/customerFollowUp/customerFollowUp",
+		"style": {
+			"navigationBarTitleText": "客户跟进",
+			"app-plus": {
+				"bounce": "none",
+				"titleNView": {
+					"buttons": [{
+						"text": "提交",
+						"fontSize": "13",
+						"float": "right",
+						"color": "#fff"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/staff/staffList/staffList",
+		"style": {
+			"navigationBarTitleText": "员工列表",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"text": "添加",
+						"float": "right",
+						"fontSize": "15"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/staff/staffAdd/staffAdd",
+		"style": {
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"text": "提交",
+						"float": "right",
+						"fontSize": "15"
+					}]
+				}
+			}
+		}
+	}, {
+		"path": "pages/common/carBrand/carBrand",
+		"style": {
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "品牌车型",
+			"navigationBarBackgroundColor": "#108ee9",
+			"backgroundColor": "#F8F8F8"
+		}
+	}, {
+		"path": "pages/index/login/login",
+		"style": {
+			"navigationBarTitleText": "用户登录"
+		}
+	}, {
+		"path": "pages/notice/noticeList/noticeList",
+		"style": {
+			"navigationBarTitleText": "公告列表"
+		}
+	}, {
+		"path": "pages/me/myMsgInfo/myMsgInfo",
+		"style": {
+			"navigationBarTitleText": "消息详情"
+		}
+	}, {
+		"path": "components/pageEnd/pageEnd",
+		"style": {}
+	}, {
+		"path": "components/share/share",
+		"style": {}
+	}, {
+		"path": "pages/carAdmin/bindIc/bindIc",
+		"style": {
+			"navigationBarTitleText": "车辆绑定",
+			"app-plus": {
+				"titleNView": {
+					"buttons": [{
+						"text": "提交",
+						"float": "right",
+						"fontSize": "15"
+					}]
+				}
+			}
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "信车智联",
+		"navigationBarBackgroundColor": "#108ee9",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#909399",
+		"selectedColor": "#4682B4",
+		"borderStyle": "white",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index/index",
+				"text": "首页",
+				"iconPath": "static/rabBar/index.png",
+				"selectedIconPath": "static/rabBar/indexActive.png"
+			},
+			{
+				"pagePath": "pages/goodCar/carList/carList",
+				"text": "车源",
+				"iconPath": "static/rabBar/vehicleSource.png",
+				"selectedIconPath": "static/rabBar/vehicleSourceActive.png"
+			},
+			// {
+			// 	"pagePath":"pages/addCar/addCar",
+			// 	"text":"录车",
+			// 	"iconPath":"static/rabBar/recordCar.png",
+			// 	"selectedIconPath":"static/rabBar/recordCarActive.png"
+			// },
+			{
+				"pagePath": "pages/statistics/statistics",
+				"text": "统计",
+				"iconPath": "static/rabBar/statistics.png",
+				"selectedIconPath": "static/rabBar/statisticsActive.png"
+			},
+			{
+				"pagePath": "pages/me/meInfo/meInfo",
+				"text": "我的",
+				"iconPath": "static/rabBar/me.png",
+				"selectedIconPath": "static/rabBar/meActive.png"
+			}
+		]
+	}
+}
